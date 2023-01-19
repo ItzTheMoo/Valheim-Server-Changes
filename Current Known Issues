@@ -1,6 +1,8 @@
 Valheim Legends buttons (Z,X,C) Clash with Extended Inventory Buttons (Z,X,C).
 ~~current Work Around is to go to R2Modman, under Config Editor, Edit the BepinEX\Config\com.odinplusqol.mod.cfg Under Extended Iventory Hotkey 1,2 and 3 Change
 The Values to your liking (I personally use F1,F3,F4) ((I cannot get the !@#$%^&*() to work.))
+YOU CAN LIVE EDIT WHILE YOU ARE IN THE GAME, FOR THIS IS NOT IMPACTED VIA SERVER FILES... ITS ONLY CLIENT SIDE
+However, if you change a Server side File, it should revert back to Server settings apon entering the server... otherwise it will not let you join
 
 The Weight on Extended Inventory is showing Decimal Integers (to the thousandths)
 ~~This is imbedded into the Odin QoL code, and i fear it may not be fixable. as it is a callback for about 10 working mods.
