@@ -1,0 +1,5 @@
+Valheim Legends buttons (Z,X,C) Clash with Extended Inventory Buttons (Z,X,C).
+~~currently looking for work around~~
+
+The Weight on Extended Inventory is showing Decimal Integers (to the thousandths)
+~~This is imbedded into the Odin QoL code, and i fear it may not be fixable. as it is a callback for about 10 working mods.
