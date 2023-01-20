@@ -12,6 +12,32 @@ Dmg / HP Per STAR as been incrased from
  100% to 200% for HP
 
 Mobs now spawn with Affixs and Elemental infusions (1% chance in levels 0-2) 15% chance 3-4, 40% chance in level 5, and 100% chance in level 6
+Magenta - Quick - Moves faster
+40% increased movement speed
+
+Red - Aggressive - Attacks faster and tries to hit you more often
+Attack speed increased by 25%, interval between two attack waves and circle time reduced by 50%, interval between circles increased by 150%
+
+Green - Regenerating - Regenerates health over time
+BaseHeal = Health at 0 stars * (1 + 0.25 * stars), Healing = BaseHeal * (10 * log(max(10, BaseHeal - 1000)) / (BaseHeal + 1000)) * 1.2 / second
+
+Cyan - Curious - Comes checking for you from a farther distance
+Hear and view range increased by 100%
+
+White - Splitting - Splits in two lower level enemies with the same color upon death
+Example: A 4 star Greydwarf will split into two 2 star Greydwarfs on death
+
+Blue - Armored - Takes less damage, but moves slower
+66% less damage taken, 50% reduced movement speed
+
+Fire-Infused - Resistant to fire damage and vulnerable to frost damage. Ignites you on hit.
+Frost-Infused - Resistant to frost damage and vulnerable to fire damage. Freezes you on hit.
+Lightning-Infused - Resistant to lightning damage and vulnerable to spirit damage. Deals lightning damage.
+Spirit-Infused - Resistant to spirit damage and vulnerable to lightning damage. Heals itself on hits.
+Poison-Infused - Immune to poison damage. Explodes in a poison cloud on death.
+Chaos-Infused - One of the other infusions, randomly selected on each hit.
+
+
 
 Creature Levels are now based off Distance; indicated by a Circle on the map. The Further you are the more stars.
 the more stars the more power/hp the creatures have.
