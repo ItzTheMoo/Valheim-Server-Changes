@@ -1,0 +1,90 @@
+With this update, a new map is generatred, and a new charecter is required.
+
+~~~ [Mod updates] ~~~ 
+
+Server Charecters
+- This will require new charecters
+
+Anti Cheat System
+- bad mods = instant kicked
+- too much "stats" = Kicked
+- This is Logged in Discord to our Admins.
+
+Steel items have been added
+- Creatable at the Forge
+
+Crafting Menu Search...
+- Need i Explain?
+- you can also set an X amount rather then autoclicking.
+
+Faster Teleports
+- No more Portal Screen when porting somewhere
+- unless it loads slow for you.
+
+Discord Bots
+- For Server Maintenance notice
+- For Anti-Cheat
+- For Server Status (last known)
+-* Under Construction ~ Working currently
+
+Arrows now are weightless
+- Need i say more?
+
+BetterNetworking
+-Helps Users not DC / adds better KB/s to server.
+
+EpicMMO Changes
+- 200 points can be allocated in 3 of the 4 stats
+- 100 points in the remaining slot.
+- Max dmg reduction from Endurance is now 40%
+- Max dmg reduction from Int is now 40%
+
+Valheim Legends
+- overall class dmg reduced
+- Will adjust stats ~ based on user feedback
+- This is a Placeholder till MagicHeim releases
+
+~~~ [Important Information] ~~~
+
+With the previous map / modpack / server? a couple things have to change
+Below are the Big Changes.
+
+You May have to Port Forward 2456-2458 TCP / UDP ports.
+- Windows Adv Firewall incoming and outgoing
+- and on your local Router
+
+We are No longer using Valheims Middle Man server (Playfab) and or -Crossplay.
+- PC players only with us
+- Better Networking because of this (Should result in less disconnects, and issues)
+- Mod's better use Non-playfab rule.
+
+
+~~~ [RULES / Do Not Do's] ~~~
+
+No Building Around Trader
+- Specifically surrounding the trader so nobody can have access to it.
+- This caused lag when teleporting into trader area / even walking into it.
+
+~~~ [Plans Moving Forward and or The Goal] ~~~
+
+Get the server Public.
+- gets people in the server, playing, more then just our "friend group"
+- Advertising the server.
+
+PVP Included
+- Only within Wards is it forced (aka RAIDS!)
+
+Make Drops dissipear after X time
+- With the shear about of mobs in plains that fight eachother, drops are abbundant.
+  If we add a rule in place to remove drop after 5m this will reduce enity spawns, and lag.
+
+Expand World is still doing the whole "Must Not be installed"
+- Its annoying at best, so its still added to the server
+- i am looking for a fix, will come later.
+- Its pretty so keeping it :)
+
+
+
+
+
+
